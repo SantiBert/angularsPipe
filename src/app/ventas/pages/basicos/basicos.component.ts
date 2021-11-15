@@ -10,4 +10,5 @@ export class BasicosComponent {
   public nombreLower: string = 'lauren';
   public nombreUpper: string = 'LAUREN';
   public nombreCompleto: string = 'lAuReN pHiLips';
+  public fecha: Date = new Date();
 }
